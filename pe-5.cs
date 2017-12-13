@@ -18,7 +18,7 @@ public class Program
 	}
 }
 
-// version with for loop instead of while loop - requires you set i to be above expected output. 
+// version with for loop instead of while loop
 using System;				
 public class Program
 {
